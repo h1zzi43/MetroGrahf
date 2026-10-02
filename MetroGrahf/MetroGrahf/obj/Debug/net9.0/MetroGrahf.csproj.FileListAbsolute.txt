@@ -1,0 +1,14 @@
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\bin\Debug\net9.0\MetroGrahf.exe
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\bin\Debug\net9.0\MetroGrahf.deps.json
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\bin\Debug\net9.0\MetroGrahf.runtimeconfig.json
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\bin\Debug\net9.0\MetroGrahf.dll
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\bin\Debug\net9.0\MetroGrahf.pdb
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\MetroGrahf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\MetroGrahf.AssemblyInfoInputs.cache
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\MetroGrahf.AssemblyInfo.cs
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\MetroGrahf.csproj.CoreCompileInputs.cache
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\MetroGrahf.dll
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\refint\MetroGrahf.dll
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\MetroGrahf.pdb
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\MetroGrahf.genruntimeconfig.cache
+C:\Users\user103-15\source\repos\MetroGrahf\MetroGrahf\obj\Debug\net9.0\ref\MetroGrahf.dll
